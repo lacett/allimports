@@ -1,0 +1,16 @@
+PODS:
+  - FuzeUtils (0.1.6)
+
+DEPENDENCIES:
+  - FuzeUtils
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FuzeUtils
+
+SPEC CHECKSUMS:
+  FuzeUtils: d47e20405d8c76217ac9222d0c3101512fb25cc6
+
+PODFILE CHECKSUM: 2fa4d117b89b779bdc405f03501ce3b345cb611f
+
+COCOAPODS: 1.5.0
